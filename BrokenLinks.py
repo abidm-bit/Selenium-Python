@@ -1,3 +1,6 @@
+# Wikipage: https://github.com/abidm-bit/Selenium-Python/wiki/Check-a-site-for-broken-links
+# Check for broken links using selenium and requests 
+
 import requests
 from selenium import webdriver
 from selenium.webdriver.common.by import By
