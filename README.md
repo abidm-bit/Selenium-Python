@@ -1,6 +1,6 @@
-# Single instance examples of Selenium Python
 Using: 
-- Selenium
-- Python
+- selenium webdriver
+- python
 - pandas
-- tabulate 
+- tabulate
+- requests
