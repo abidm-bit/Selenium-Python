@@ -1,4 +1,7 @@
 # Scrape a webtable using Python & Selenium (parse & extract data)
+# WikiPage : https://github.com/abidm-bit/Selenium-Python/wiki/Scraping-an-html-table
+
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
